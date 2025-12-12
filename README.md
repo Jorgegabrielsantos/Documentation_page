@@ -12,7 +12,7 @@ The goal is to practice text structure, navigation layout, and responsive design
 ---
 
 ## 🔗 Live Demo
-👉 [Click here to view the project](https://jorgegabrielsantos.github.io/Documentation_page/)
+👉 [Click here to view the project](https://Jorgegabrielsantos.github.io/Documentation_page/)
 
 ---
 
